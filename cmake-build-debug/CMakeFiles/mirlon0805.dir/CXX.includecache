@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jayna/Desktop/mirlon0805/HashTable.h
+iostream
+-
+string
+-
+
+C:/Users/jayna/Desktop/mirlon0805/main.cpp
+iostream
+-
+HashTable.h
+C:/Users/jayna/Desktop/mirlon0805/HashTable.h
+spellcheck.h
+C:/Users/jayna/Desktop/mirlon0805/spellcheck.h
+string
+-
+fstream
+-
+
+C:/Users/jayna/Desktop/mirlon0805/spellcheck.h
+vector
+-
+
